@@ -5,5 +5,4 @@ int main (){
     fgets (ten, sizeof(ten), stdin);
     printf(" Ten la: %s", ten);
     return 0;
-
 }
